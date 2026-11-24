@@ -1,14 +1,13 @@
 # Validador de Etiqueta Canonica y Consolidacion de URLs
 
 [![Validador Etiqueta Canonica](https://img.shields.io/badge/TAVARDT-Canonical-5b3cf5.svg)](https://tools.tavardt.com/mx/validador-etiqueta-canonica/)
-[![Jurisdiccion](https://img.shields.io/badge/Jurisdiccion-Mexico-00C853.svg)](https://ag.tavardt.com/mx/)
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/)
 
 Auditoria de rutas canonicas, deteccion de duplicidades tecnicas y optimizacion de rastreo en Mexico.
 
-Desarrollado y mantenido por la division de ingenieria web y optimizacion de rastreo de **[TAVARDT Mexico](https://ag.tavardt.com/mx/)**.
+Desarrollado y mantenido por la division de ingenieria web y optimizacion de rastreo de **TAVARDT Mexico**.
 
----
+***
 
 ## Capacidades de Auditoria de Etiqueta Canonica
 
@@ -18,7 +17,7 @@ Desarrollado y mantenido por la division de ingenieria web y optimizacion de ras
 * **Comprobacion de Estado del Destino**: Valida que la pagina canonica de destino responda con codigo HTTP 200 OK.
 * **Puntuacion de Salud de Indexacion**: Indice cuantitativo de 0 a 100 con recomendaciones tecnicas priorizadas.
 
----
+***
 
 ## Instalacion y Ejecucion
 
@@ -33,20 +32,20 @@ python canonical_validator.py https://empresa.com.mx
 Para generar salida estructurada JSON:
 
 ```bash
-python canonical_validator.py https://empresa.com.mx --json
+python canonical_validator.py https://empresa.com.mx -json
 ```
 
----
+***
 
 ## Diagnostico Completo en la Web
 
 Para revision profunda de consolidacion canonica:
 
-* **[Validador de Etiqueta Canonica Oficial](https://tools.tavardt.com/mx/validador-etiqueta-canonica/)**
+* **Validador de Etiqueta Canonica Oficial**
 * **[Portal Corporativo TAVARDT Mexico](https://ag.tavardt.com/mx/)**
 
----
+***
 
 ## Consultoria en Arquitectura Web y SEO
 
-Para proyectos avanzados de consolidacion de catalogo y cumplimiento de Estandares W3C y Mejores Practicas Tecnicas, consulte al equipo de **[TAVARDT Mexico](https://ag.tavardt.com/mx/contacto/)**.
+Para proyectos avanzados de consolidacion de catalogo y cumplimiento de Estandares W3C y Mejores Practicas Tecnicas, consulte al equipo de **TAVARDT Mexico**.
