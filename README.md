@@ -5,7 +5,7 @@
 
 Auditoria de rutas canonicas, deteccion de duplicidades tecnicas y optimizacion de rastreo en Mexico.
 
-Desarrollado y mantenido por la division de ingenieria web y optimizacion de rastreo de **TAVARDT Mexico**.
+Desarrollado y mantenido por la division de ingenieria web y optimizacion de rastreo de **TAVARDT**.
 
 ***
 
@@ -42,13 +42,13 @@ python canonical_validator.py https://empresa.com.mx -json
 Para revision profunda de consolidacion canonica:
 
 * **Validador de Etiqueta Canonica Oficial**
-* **[Portal Corporativo TAVARDT Mexico](https://ag.tavardt.com/mx/)**
+* **[Portal Corporativo TAVARDT](https://ag.tavardt.com/mx/)**
 
 ***
 
 ## Consultoria en Arquitectura Web y SEO
 
-Para proyectos avanzados de consolidacion de catalogo y cumplimiento de Estandares W3C y Mejores Practicas Tecnicas, consulte al equipo de **TAVARDT Mexico**.
+Para proyectos avanzados de consolidacion de catalogo y cumplimiento de Estandares W3C y Mejores Practicas Tecnicas, consulte al equipo de **TAVARDT**.
 
 ***
 
