@@ -24,7 +24,7 @@ Desarrollado y mantenido por la division de ingenieria web y optimizacion de ras
 Requiere Python 3.8 o superior sin dependencias externas.
 
 ```bash
-git clone https://github.com/TAVARDT-Mexico/canonical-tag-validator-mx.git
+git clone https://github.com/TAVARDT/canonical-tag-validator-mx.git
 cd canonical-tag-validator-mx
 python canonical_validator.py https://empresa.com.mx
 ```
